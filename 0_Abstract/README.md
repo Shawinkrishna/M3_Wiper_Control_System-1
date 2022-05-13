@@ -1,4 +1,4 @@
-# ABSTRACT
+ABSTRACT
 
     
  The Wiper speed control system controls the operational speed of the wiper in accordance with the rain condition. It cleans 
@@ -12,7 +12,7 @@
  position this is the new wiper system behind the wiper arm. This proposed wiper system's principle is comparable to those of other existing 
  conventional wipers.
  
- # FEATURES
+ FEATURES
   1.  It shall lock the car when the button is pressed once
   2.  It shall open the car when the button is pressed twice
   3.  It shall wiper on and it moves clock wise direction and when the button is pressed thrice
